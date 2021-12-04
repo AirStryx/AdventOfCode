@@ -1,0 +1,11 @@
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.exe
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.deps.json
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.runtimeconfig.json
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.runtimeconfig.dev.json
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.dll
+F:\Advent of code\2021\2\Day2\Day2\bin\Debug\netcoreapp3.0\Day2.pdb
+F:\Advent of code\2021\2\Day2\Day2\obj\Debug\netcoreapp3.0\Day2.csprojAssemblyReference.cache
+F:\Advent of code\2021\2\Day2\Day2\obj\Debug\netcoreapp3.0\Day2.AssemblyInfoInputs.cache
+F:\Advent of code\2021\2\Day2\Day2\obj\Debug\netcoreapp3.0\Day2.AssemblyInfo.cs
+F:\Advent of code\2021\2\Day2\Day2\obj\Debug\netcoreapp3.0\Day2.dll
+F:\Advent of code\2021\2\Day2\Day2\obj\Debug\netcoreapp3.0\Day2.pdb
