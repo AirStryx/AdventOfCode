@@ -1,0 +1,11 @@
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.exe
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.deps.json
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.runtimeconfig.json
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.runtimeconfig.dev.json
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.dll
+F:\AdventOfCode\2021\08\Day8\Day8\bin\Debug\netcoreapp3.0\Day8.pdb
+F:\AdventOfCode\2021\08\Day8\Day8\obj\Debug\netcoreapp3.0\Day8.csprojAssemblyReference.cache
+F:\AdventOfCode\2021\08\Day8\Day8\obj\Debug\netcoreapp3.0\Day8.AssemblyInfoInputs.cache
+F:\AdventOfCode\2021\08\Day8\Day8\obj\Debug\netcoreapp3.0\Day8.AssemblyInfo.cs
+F:\AdventOfCode\2021\08\Day8\Day8\obj\Debug\netcoreapp3.0\Day8.dll
+F:\AdventOfCode\2021\08\Day8\Day8\obj\Debug\netcoreapp3.0\Day8.pdb

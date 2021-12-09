@@ -25,7 +25,7 @@ namespace Day3
 
 		static private string[] ReadFile()
 		{
-			string[] lines = System.IO.File.ReadAllLines(@"F:\Advent of code\2021\3\Files\Final.txt"); //Runs the test code
+			string[] lines = System.IO.File.ReadAllLines(@"F:\Advent of code\2021\03\Files\Final.txt"); //Runs the test code
 
 			return lines;
 		}

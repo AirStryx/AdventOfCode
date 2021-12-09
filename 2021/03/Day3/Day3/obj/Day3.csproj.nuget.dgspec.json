@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Advent of code\\2021\\3\\Day3\\Day3\\Day3.csproj": {}
+    "F:\\AdventOfCode\\2021\\03\\Day3\\Day3\\Day3.csproj": {}
   },
   "projects": {
-    "F:\\Advent of code\\2021\\3\\Day3\\Day3\\Day3.csproj": {
+    "F:\\AdventOfCode\\2021\\03\\Day3\\Day3\\Day3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Advent of code\\2021\\3\\Day3\\Day3\\Day3.csproj",
+        "projectUniqueName": "F:\\AdventOfCode\\2021\\03\\Day3\\Day3\\Day3.csproj",
         "projectName": "Day3",
-        "projectPath": "F:\\Advent of code\\2021\\3\\Day3\\Day3\\Day3.csproj",
+        "projectPath": "F:\\AdventOfCode\\2021\\03\\Day3\\Day3\\Day3.csproj",
         "packagesPath": "C:\\Users\\Ewout\\.nuget\\packages\\",
-        "outputPath": "F:\\Advent of code\\2021\\3\\Day3\\Day3\\obj\\",
+        "outputPath": "F:\\AdventOfCode\\2021\\03\\Day3\\Day3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ewout\\AppData\\Roaming\\NuGet\\NuGet.Config",
